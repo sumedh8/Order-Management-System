@@ -67,3 +67,19 @@ src/main/java
 ```sql
 CREATE DATABASE order_management;
 USE order_management;
+
+## 📦 Dependencies Used
+
+- Spring Boot Starter Web  
+- Spring Boot Starter Data JPA  
+- MySQL Connector/J  
+- Lombok  
+- Spring Boot Starter Validation
+
+## 📦 Dependencies Used
+
+- **spring-boot-starter-web** – For building REST APIs
+- **spring-boot-starter-data-jpa** – For database access using JPA & Hibernate
+- **mysql-connector-j** – MySQL database connectivity
+- **lombok** – Reduces boilerplate code (getters, setters, constructors)
+- **spring-boot-starter-validation** – Input validation support
